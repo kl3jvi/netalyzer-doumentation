@@ -1,0 +1,13 @@
+{
+  "docs": {
+    "General": [
+      "security",
+      "subscribe-guide",
+      "contributor-guide",
+      "committer-guide",
+      "2fa",
+      "release-guide",
+      "integrate-with-project-docs"
+    ]
+  }
+}
